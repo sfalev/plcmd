@@ -1,0 +1,1 @@
+gcc -DLINUX -lnodave -lmysqlclient plcmd.c -o plcmd
